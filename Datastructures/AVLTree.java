@@ -2,6 +2,7 @@
 
 
 // THIS IMPLEMENTATION ALLOWS DUPLICATES, IF YOU DON'T WANT DUPLICATES, REMOVE REFERENCES TO frequency you should be good to go.
+// Sample : https://github.com/eugenp/tutorials/blob/master/data-structures/src/main/java/com/baeldung/avltree/AVLTree.java
 class AVLTree {
     public Node root;
 
